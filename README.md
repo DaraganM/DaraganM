@@ -4,53 +4,27 @@ Physics & astronomy background | Python | AI & Data | Analytical problem solving
 
 I build practical projects at the intersection of quantitative analysis, software, AI and real-world decision making.
 
-I am interested in solving real-world problems at the intersection of:
-
-- Physics and quantitative thinking
-- Python and data analysis
-- AI / machine learning
-- Product thinking
-- Technology consulting
-
-## Featured projects
+## Featured project
 
 ### ⭐ [daragan-art](https://github.com/DaraganM/daragan-art)
-Production portfolio and commission platform built with Astro and Cloudflare Workers, including a secure commission form, e-mail routing and CI automation.
+
+Production portfolio and commission platform built with Astro and Cloudflare Workers.
 
 Highlights:
-- Static-first architecture
+- Astro static-first architecture
 - Cloudflare Workers
-- Secure commission form
-- Cloudflare Turnstile
-- Email routing
-- GitHub Actions CI
-- Dependabot
-- Responsive design
+- Secure commission form with Turnstile
+- GitHub Actions CI and Dependabot
 - Live production deployment
 
-**Live production site:** [daragan.art](https://daragan.art)
+**Live site:** [daragan.art](https://daragan.art)
 
-### Scientific computing & astronomy
+## Scientific computing & astronomy
 
 I also explore open-source projects related to astronomical data analysis and machine learning.
 
-#### TESS-ExoClass
-Forked scientific repository for TESS exoplanet detection and classification.
-
-Topics:
-- astronomical datasets
-- scientific computing
-- data processing
-- classification
-
-#### Astronet-Triage
-Forked neural-network project for TESS light-curve triage.
-
-Topics:
-- machine learning
-- time-series analysis
-- astronomical data
-- neural networks
+- **TESS-ExoClass** — forked project for TESS exoplanet detection and classification.
+- **Astronet-Triage** — forked neural-network project for TESS light-curve triage.
 
 ## Tech
 
@@ -74,7 +48,7 @@ Topics:
 
 ## Background
 
-I come from a physics and astronomy background, which shaped the way I approach problems:
+My physics and astronomy background shapes how I approach problems:
 
 - break complex systems into smaller parts
 - quantify assumptions
@@ -94,5 +68,5 @@ I am especially interested in projects where technical analysis connects with bu
 
 ## Links
 
-- Portfolio: https://daragan.art
-- LinkedIn: https://www.linkedin.com/in/mykhailo-daragan-a61416341
+- Portfolio: [daragan.art](https://daragan.art)
+- LinkedIn: [linkedin.com/in/mykhailo-daragan-a61416341](https://www.linkedin.com/in/mykhailo-daragan-a61416341)
